@@ -147,7 +147,7 @@ public class Main {
 
     public static void insertTestNames(){
         guests[0] = "Lisa";
-        guests[1] = "Moza";
+        guests[1] = "John";
         guests[2] = "Alex";
         guests[3] = "Alice";
         guests[4] = "Jacob";
